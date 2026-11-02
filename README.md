@@ -1,21 +1,36 @@
-# Mi Rincón de Proyectos Personales
+# PROJECTS
+### Leonardo Piñeres — Software Development Portfolio
 
-¡Bienvenido a mi repositorio de proyectos personales! Aquí encontrarás una colección de las creaciones y experimentos en los que he estado trabajando en mi tiempo libre. Este es mi espacio creativo donde plasmo ideas, aprendizajes y pasatiempos diversos.
+Public documentation of my independent software projects and client work. Each project has its own folder with an overview, my contribution, technologies, development status, and available links.
 
-## ¿Qué Puedes Encontrar Aquí?
+## Main projects
 
-Este repositorio alberga una variedad de proyectos, desde pequeños scripts y herramientas útiles hasta aplicaciones más elaboradas y proyectos de desarrollo web. La diversidad es la clave aquí, ya que me encanta explorar diferentes áreas de la programación y la tecnología.
+| Project | Description | Status | Source |
+| --- | --- | --- | --- |
+| [**LUMO App**](lumo/) | Web application for sales, payments, expenses, customers, and accounts receivable | MVP in development | Private |
+| [**Sobremesa**](sobremesa/) | Browser-based 3D café management game set in a stylized Manizales | In development | Private |
 
-## Cómo Explorar
+## More work
 
-Si estás interesado en alguno de los proyectos, ¡siéntete libre de explorar! Cada carpeta dentro de este repositorio representa un proyecto distinto. Dentro de las carpetas, encontrarás una descripción detallada de cada proyecto, junto con instrucciones sobre cómo ejecutarlo o utilizarlo.
+| Project | Description | Status |
+| --- | --- | --- |
+| [**NanoExplora Colombia**](nanoexplora-colombia/) | Interactive nanotechnology education and science communication | In development · Private source repository prepared for future upload |
+| [**Bonara Beauty**](bonara-beauty/) | Shopify store implementation and ongoing management as an associated partner | Implementation completed August 2026 · Management ongoing |
 
-## Contribuciones
+## How to explore
 
-Si te sientes inspirado por alguno de los proyectos o tienes ideas para mejoras, ¡las contribuciones son bienvenidas! Siéntete libre de abrir problemas (issues) o enviar solicitudes de extracción (pull requests). La colaboración es una parte importante de la comunidad de código abierto, y estoy emocionado por cualquier ayuda que puedas ofrecer.
+Open a project folder to read its README. Available public URLs are listed within each project; a missing demo link means no verified public demo is included yet.
 
-## Contacto
+**This repository is a portfolio documentation hub.** The main software projects' implementation code is maintained separately in private repositories. Client materials are not published here. No access to private source code is granted by this repository.
 
-Si tienes alguna pregunta, comentario o simplemente quieres conectarte, no dudes en contactarme. Estoy ansioso por conocer a otros entusiastas de la tecnología y compartir conocimientos.
+Screenshots and walkthroughs can be added to each folder later.
 
-¡Gracias por visitar mi rincón de proyectos personales! Espero que encuentres algo interesante y útil aquí.
+## Earlier learning work
+
+This repository was previously named `Proyectos-Pequenos`. Existing calculator scripts and Tkinter exercises have been preserved as earlier public learning work. They are separate from the private implementations described above.
+
+## About me
+
+Junior Software Developer and Engineering Physics student at Universidad Nacional de Colombia, with training in Data Science.
+
+[GitHub profile](https://github.com/SrLeonardoPr) · [LinkedIn](https://www.linkedin.com/in/leonardopineres/)
