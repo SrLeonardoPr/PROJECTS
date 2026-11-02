@@ -31,4 +31,6 @@ MVP in development. Features and implementation may change as the project evolve
 
 The implementation is maintained in a separate **private repository**. This folder contains public portfolio documentation only.
 
-No public application or demo URL is currently included. Screenshots and a walkthrough can be added here later.
+[Open LUMO App](https://lumo-col.vercel.app)
+
+The public application is an MVP in development. Its source code remains private. Screenshots and a walkthrough can be added here later.
