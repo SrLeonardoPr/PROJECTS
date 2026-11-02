@@ -7,7 +7,7 @@ Public documentation of my independent software projects and client work. Each p
 
 | Project | Description | Status | Source |
 | --- | --- | --- | --- |
-| [**LUMO App**](lumo/) | Web application for sales, payments, expenses, customers, and accounts receivable | MVP in development | Private |
+| [**LUMO App**](lumo/) · [Open app](https://lumo-col.vercel.app) | Web application for sales, payments, expenses, customers, and accounts receivable | MVP in development | Private |
 | [**Sobremesa**](sobremesa/) | 3D café management game originally built for the browser, with Android development and performance testing in progress | In development | Private |
 
 ## More work
