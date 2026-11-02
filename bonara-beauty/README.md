@@ -24,6 +24,6 @@ The store implementation was completed in **August 2026**. My associated partner
 
 ## Links and implementation access
 
-No verified public storefront URL is included in this documentation yet.
+[Visit Bonara Beauty](https://bonarabeauty.co/)
 
 This folder is a public project summary. Client implementation details and non-public materials are not published here.
