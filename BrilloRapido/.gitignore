@@ -1,0 +1,6 @@
+.build/
+BrilloRapido.app/
+*.app/
+*.zip
+.DS_Store
+/m1ddc

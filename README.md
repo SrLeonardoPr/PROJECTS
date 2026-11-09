@@ -1,7 +1,7 @@
 # PROJECTS
 ### Leonardo Piñeres — Software Development Portfolio
 
-Public documentation of my independent software projects and client work. Each project has its own folder with an overview, my contribution, technologies, development status, and available links.
+Public documentation for my software projects and client work. Each project folder has an overview, my contribution, technologies, development status, and available links.
 
 ## Main projects
 
@@ -12,18 +12,19 @@ Public documentation of my independent software projects and client work. Each p
 
 ## More work
 
-| Project | Description | Status |
-| --- | --- | --- |
-| [**NanoExplora Colombia**](nanoexplora-colombia/) | Interactive nanotechnology education and science communication | In development · Private source repository prepared for future upload |
-| [**Bonara Beauty**](bonara-beauty/) · [Website](https://bonarabeauty.co/) | Shopify store implementation and ongoing management as an associated partner | Implementation completed August 2026 · Management ongoing |
+| Project | Description | Status | Source |
+| --- | --- | --- | --- |
+| [**Brillo Rápido**](BrilloRapido/) | Native macOS menu bar app for adjusting the brightness of the built-in display and connected monitors | Local app | [Public source](BrilloRapido/) |
+| [**NanoExplora Colombia**](nanoexplora-colombia/) | Interactive nanotechnology education and science communication | In development · Private source repository prepared for future upload | Private |
+| [**Bonara Beauty**](bonara-beauty/) · [Website](https://bonarabeauty.co/) | Shopify store implementation and ongoing management as an associated partner | Implementation completed August 2026 · Management ongoing | Private |
 
 ## How to explore
 
 Open a project folder to read its README. Available public URLs are listed within each project; a missing demo link means no verified public demo is included yet.
 
-**This repository is a portfolio documentation hub.** The main software projects' implementation code is maintained separately in private repositories. Client materials are not published here. No access to private source code is granted by this repository.
+**This repository is a portfolio documentation hub.** LUMO, Sobremesa, and NanoExplora implementation code is maintained in separate private repositories. Brillo Rápido is the exception: its source code is public in `BrilloRapido/`. Client materials are not published, and this repository does not provide access to private source code.
 
-Screenshots and walkthroughs can be added to each folder later.
+Screenshots and walkthroughs can be added to each project folder later.
 
 ## Earlier learning work
 
