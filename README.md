@@ -28,7 +28,7 @@ Screenshots and walkthroughs can be added to each project folder later.
 
 ## Earlier learning work
 
-This repository was previously named `Proyectos-Pequenos`. Existing calculator scripts and Tkinter exercises have been preserved as earlier public learning work. They are separate from the private implementations described above.
+This repository was previously named `Proyectos-Pequenos`. Existing calculator scripts and Tkinter exercises have been preserved as earlier public learning work. They are separate from the applications and client work described above.
 
 ## About me
 
